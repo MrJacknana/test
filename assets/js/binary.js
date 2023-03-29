@@ -29,8 +29,8 @@ let yieldSteps = 1;
 ectx.setupYield(function() { yieldSteps = 100; })
 pxsim.setTitle("test");
 pxsim.setConfigData({
- "37": 160,
- "38": 120
+ "37": 1920,
+ "38": 1080
 }, {
  "DISPLAY_WIDTH": 37,
  "DISPLAY_HEIGHT": 38
